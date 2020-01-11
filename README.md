@@ -18,6 +18,5 @@ The project i a graphical user interface, which has three main parts:
  
  gmuhawenayo@gmail.com 
  
- gmuhawenayo@aimsammi.org
  
  
