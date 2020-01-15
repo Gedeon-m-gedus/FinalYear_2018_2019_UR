@@ -15,7 +15,7 @@ def my_random_string(string_length=10):
     return random[0:string_length] # Return the random string.
 
 
-#__________CLASS OF CONTROL FUNCTIONS_______
+#__________ CONTROL FUNCTIONS_______
         
 
 def quitfunction():
