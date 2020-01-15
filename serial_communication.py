@@ -2,7 +2,7 @@ import serial
 import time
 import matplotlib.pyplot as plt
 
-arduino = serial.Serial('COM7', 9600)
+arduino = serial.Serial('COM13', 9600)
 
 x_cordinates = []
 data_list = []
