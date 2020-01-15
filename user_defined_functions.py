@@ -1,5 +1,5 @@
 
-import numpy, matplotlib
+import matplotlib
 from numpy import sin, cos, pi
 from matplotlib import pyplot as plt
 import matplotlib.animation as animation
@@ -203,18 +203,4 @@ def serial_cnft(port):
             k=k+1
             data_to_keep=""
         #time.sleep(1)
-
-
-
-
-
-
-
-
-
-
-
-
-
-
     #____________________________
