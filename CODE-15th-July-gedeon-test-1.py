@@ -12,8 +12,6 @@ import matplotlib.pyplot as plt
 import matplotlib.animation as animation
 
 
-
-import numpy
 from matplotlib.pylab import *
 from mpl_toolkits.axes_grid1 import host_subplot  
 import matplotlib.animation as animation
