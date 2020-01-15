@@ -22,8 +22,7 @@ void loop()
 //
 //  digitalWrite(LED_BUILTIN, LOW);  
 //  }
-//    
-// 
+//     
 // delay(5);
 
 int values=analogRead(A0);
