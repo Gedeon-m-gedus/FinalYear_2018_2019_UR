@@ -10,6 +10,8 @@ The project i a graphical user interface, which has three main parts:
  The logic behind is nothing but student can access built in functions which are the most signals and functions students in EEE field face. 
  Secondry, student can enter coeficients of function then do plot very easy.
  Lastly, if student is doing certain arduino based ploject hecan send data directly for real time plot.
+
+ ###  steps to run the code
  
  
  Thanks
