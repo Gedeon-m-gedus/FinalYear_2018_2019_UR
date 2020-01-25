@@ -1,6 +1,6 @@
 import pyautogui #screenshot
 import time
-from winsound import Beep #for beep sounds
+#from winsound import Beep #for beep sounds
 import uuid #random string generator
 import tkinter
 from tkinter import messagebox as tkMessageBox
@@ -27,4 +27,6 @@ def screenshoot():
     tkMessageBox.showinfo( "Hello user", "This PC>>F: is path location of your screenshot")
 
 def beep_sound():
-    Beep(1000,300)
+	pass
+    #Beep(1000,300)
+	
