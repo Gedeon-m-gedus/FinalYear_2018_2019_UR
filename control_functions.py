@@ -23,7 +23,7 @@ def quitfunction():
 
 def screenshoot():
     imagename=my_random_string(6)
-    im1=pyautogui.screenshot('F:/IMAGE '+ str(imagename)+'.png')
+    im1=pyautogui.screenshot('/home/aimsp/AIMS_GHANA_AMMI_NOTES/999_Research_materials/99_projects/final_year2018_2019_UR/FinalYear_2018_2019_UR/images/IMAGE '+ str(imagename)+'.png')
     tkMessageBox.showinfo( "Hello user", "This PC>>F: is path location of your screenshot")
 
 def beep_sound():
