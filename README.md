@@ -12,13 +12,11 @@ The project i a graphical user interface, which has three main parts:
  Lastly, if student is doing certain arduino based ploject hecan send data directly for real time plot.
 
  ###  steps to run the code
+ - Download all the files and keep them into one directory
+ - Install all the required modules
+ - Run the main file
  
  
- Thanks
- 
- Gedeon Muhawenayo
- 
- gmuhawenayo@gmail.com 
  
  
  
