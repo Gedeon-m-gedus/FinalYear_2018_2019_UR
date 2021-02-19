@@ -1,5 +1,5 @@
 # FinalYear Project_2018_2019_UR
-This is a simple project, We have done as my first step to python programming, We had an idea of making a simulation tool that could help students since they suffer from insufficient access to lab and lab equipment.
+This is a simple project, We did as our first step to python programming, We had an idea of making a simulation tool that could help students since they often suffer from insufficient access to lab and lab equipment.
 
 The project is a graphical user interface, which has three main parts:
           
