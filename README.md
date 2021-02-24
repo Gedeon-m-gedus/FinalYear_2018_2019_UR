@@ -1,4 +1,4 @@
-# FinalYear Project_2018_2019_UR
+# Signals and Functions Analyzer GUI
 This is a simple project, We did as our first step to python programming, We had an idea of making a simulation tool that could help students since they often suffer from insufficient access to lab and lab equipment.
 
 The project is a graphical user interface, which has three main parts:
